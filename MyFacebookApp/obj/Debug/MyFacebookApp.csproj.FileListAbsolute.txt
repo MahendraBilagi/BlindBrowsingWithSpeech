@@ -1,0 +1,13 @@
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\bin\Debug\MyFacebookApp.exe.config
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\bin\Debug\MyFacebookApp.exe
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\bin\Debug\MyFacebookApp.pdb
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\bin\Debug\Facebook.dll
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\bin\Debug\Facebook.xml
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.csprojResolveAssemblyReference.cache
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.frmMain.resources
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.frmLogin.resources
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.Properties.Resources.resources
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.csproj.GenerateResource.Cache
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.exe
+c:\users\mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.pdb
+C:\Users\Mons\documents\visual studio 2012\Projects\MyFacebookApp\MyFacebookApp\obj\Debug\MyFacebookApp.Form2.resources
